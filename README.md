@@ -1,10 +1,10 @@
 Data Analysis
 ===
 Here're some examples of data analystics. 
-#problems including:
-*prediction (credit default, energy star, house price, black friday)
-*time series (stock_rnn, stock_cnn)
-*recommander system(movie recommander)
+# problems including:
+* prediction (credit default, energy star, house price, black friday)
+* time series (stock_rnn, stock_cnn)
+* recommander system(movie recommander)
 
 #data preprocessing:
 *fill NaN with different ways
